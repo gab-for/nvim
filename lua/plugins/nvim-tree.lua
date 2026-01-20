@@ -6,7 +6,7 @@ return {
 		"nvim-tree/nvim-web-devicons",
 	},
 	opts = {
-		rend terer = {
+		renderer = {
 			icons = {
 				show = {
 					file = true,
