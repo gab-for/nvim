@@ -6,6 +6,7 @@ return {
 	require("plugins.catppuccin"),
 	require("plugins.render-markdown"),
 	require("plugins.alpha"),
+	require("plugins.colorizer")
 --	require("plugins.nerdcommenter"),
 }
 
