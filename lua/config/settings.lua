@@ -58,4 +58,5 @@ vim.o.scrolloff = 10
 -- instead raise a dialog asking if you wish to save the current file(s)
 vim.o.confirm = true
 
-
+-- Modeline : specific config per file
+vim.o.modeline = false
